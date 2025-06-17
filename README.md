@@ -64,7 +64,6 @@ This repository contains Jupyter Notebooks and resources for predicting salaries
    Or, if you are using Jupyter:
    ```bash
    pip install notebook
-   pip install -r requirements.txt
    ```
 
 ---
@@ -124,7 +123,8 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or collaboration opportunities, feel free to reach out!
 
 - GitHub: [Abdullah-47](https://github.com/Abdullah-47)
-- (Add your email, LinkedIn, or other contact info here)
+- Gmail: ansariabdullah4747@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdullah-ansari-2b1061196/
 
 ---
 
